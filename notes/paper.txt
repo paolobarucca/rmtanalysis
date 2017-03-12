@@ -1,0 +1,6 @@
+Spectral analysis 
+- eigenvalues
+- eigenvectors 
+- IPRs 
+- CPRs
+- randomization 
